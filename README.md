@@ -53,17 +53,18 @@ In our case, the **OpenAI API connects OpenAI’s models with the code we run in
 1. Sign up for an OpenAI account, or log in if you have one already.  
    👉 https://platform.openai.com/signup  
    👉 https://platform.openai.com/login?launch
+     ![Signup](screenshots/01_signup.png)
 
-2. Navigate to the **Dashboard**, then the **API keys** page via the left sidebar.
+3. Navigate to the **Dashboard**, then the **API keys** page via the left sidebar.
 
-3. Verify your phone number if you haven’t already.
+4. Verify your phone number if you haven’t already.
 
-4. Click “Create new secret key” and give it a name (e.g., “Database API Lab” or “BUS4 118i”).
+5. Click “Create new secret key” and give it a name (e.g., “Database API Lab” or “BUS4 118i”).
 
-5. **EXTREMELY IMPORTANT**: COPY AND SAVE YOUR API KEY SOMEWHERE SAFE.  
+6. **EXTREMELY IMPORTANT**: COPY AND SAVE YOUR API KEY SOMEWHERE SAFE.  
    ⚠️ You will not be able to view it again!
 
-6. Navigate to the **Usage** page via the left sidebar and check your usage.
+7. Navigate to the **Usage** page via the left sidebar and check your usage.
 
    - The Usage page helps you visually track API calls and manage costs.
    - New accounts will have **$5 in free credits**, which expire after 3 months.
