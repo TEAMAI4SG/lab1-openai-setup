@@ -50,36 +50,62 @@ In our case, the **OpenAI API connects OpenAI’s models with the code we run in
 
 ## 🔑 Creating an OpenAI API Key
 
-1. Sign up for an OpenAI account, or log in if you have one already.  
+1. Sign up for an OpenAI account, or log in if you have one already.
+
    👉 https://platform.openai.com/signup  
    👉 https://platform.openai.com/login?launch
    
+   
    ![Signup](screenshots/01_signup.png)
+
+   
 
 2. Navigate to the **Dashboard**, then the **API keys** page via the left sidebar.
 
+
    ![Dashboard – API keys](screenshots/02_dashboard_api_keys.png)
+
+   
 
 3. Verify your phone number if you haven’t already.
 
+
    ![Phone verification](screenshots/03_phone_verify.png)
+
+   
 
 4. Click “Create new secret key” and give it a name (e.g., “Database API Lab” or “BUS4 118i”).
 
+
    ![Create secret key](screenshots/04_create_secret_key.png)
 
-5. **EXTREMELY IMPORTANT**: COPY AND SAVE YOUR API KEY SOMEWHERE SAFE.  
-   ⚠️ You will not be able to view it again!
+   
+
+5. **EXTREMELY IMPORTANT**: COPY AND SAVE YOUR API KEY SOMEWHERE YOU WILL NOT LOSE IT, YOU WILL NOT BE ABLE TO VIEW IT THROUGH YOUR ACCOUNT AGAIN!
+   
+   ⚠️ Click “Done” only after you’ve saved it in a safe place.
+
+   ⚠️ **Keeping these API keys safe is very important!** If someone else obtains your key, they       can pretend to be you and access important information or services. This could lead to         unauthorized people seeing sensitive data or unexpected costs.
+
 
    ![Copy key modal](screenshots/05_copy_key_modal.png)
 
-6. Navigate to the **Usage** page via the left sidebar and check your usage.
+   
 
-   - The Usage page helps you visually track API calls and manage costs.
-   - New accounts will have **$5 in free credits**, which expire after 3 months.
-   - If using an older account, load $5 in credits manually.
+7. Navigate to the **Usage** page via the left sidebar and check your usage.
+
+
+ ![Usage page](screenshots/06_usage_page.png)
+
+
+
+   - The "Usage" page will look something like this. Later, it helps you visually track API         calls and manage costs.
+   - If you did not have an existing OpenAI account in Step 1, you should see a FREE $5 of          credits. These expire 3 months after you create an OpenAI account.
+   - However, if you are using an existing OpenAI account, please load $5 in credits. The           credits will be used in the upcoming labs.
+
   
    ![Usage page](screenshots/06_usage_page.png)
+
 
 ---
 
@@ -91,15 +117,13 @@ Attach a screenshot of your Usage page below:
 
 ---
 
-## ✅ Completion Instructions
 
 # Congratulations, you have successfully finished the lab!
 
 Please include:
 1. A pledge that you know where you saved your API key
 2. A screenshot of your “Usage” page
-
-Combine both into a blank document and submit it as a PDF.
+3. Combine both into a blank document and submit it as a PDF.
 
 ---
 
