@@ -53,22 +53,33 @@ In our case, the **OpenAI API connects OpenAI’s models with the code we run in
 1. Sign up for an OpenAI account, or log in if you have one already.  
    👉 https://platform.openai.com/signup  
    👉 https://platform.openai.com/login?launch
-     ![Signup](screenshots/01_signup.png)
+   
+   ![Signup](screenshots/01_signup.png)
 
-3. Navigate to the **Dashboard**, then the **API keys** page via the left sidebar.
+2. Navigate to the **Dashboard**, then the **API keys** page via the left sidebar.
 
-4. Verify your phone number if you haven’t already.
+   ![Dashboard – API keys](screenshots/02_dashboard_api_keys.png)
 
-5. Click “Create new secret key” and give it a name (e.g., “Database API Lab” or “BUS4 118i”).
+3. Verify your phone number if you haven’t already.
 
-6. **EXTREMELY IMPORTANT**: COPY AND SAVE YOUR API KEY SOMEWHERE SAFE.  
+   ![Phone verification](screenshots/03_phone_verify.png)
+
+4. Click “Create new secret key” and give it a name (e.g., “Database API Lab” or “BUS4 118i”).
+
+   ![Create secret key](screenshots/04_create_secret_key.png)
+
+5. **EXTREMELY IMPORTANT**: COPY AND SAVE YOUR API KEY SOMEWHERE SAFE.  
    ⚠️ You will not be able to view it again!
 
-7. Navigate to the **Usage** page via the left sidebar and check your usage.
+   ![Copy key modal](screenshots/05_copy_key_modal.png)
+
+6. Navigate to the **Usage** page via the left sidebar and check your usage.
 
    - The Usage page helps you visually track API calls and manage costs.
    - New accounts will have **$5 in free credits**, which expire after 3 months.
    - If using an older account, load $5 in credits manually.
+  
+   ![Usage page](screenshots/06_usage_page.png)
 
 ---
 
@@ -76,11 +87,13 @@ In our case, the **OpenAI API connects OpenAI’s models with the code we run in
 
 Attach a screenshot of your Usage page below:
 
-![OpenAI Usage Page](screenshots/usage_page.png)
+![Free credits](screenshots/07_free_credits.png)
 
 ---
 
 ## ✅ Completion Instructions
+
+# Congratulations, you have successfully finished the lab!
 
 Please include:
 1. A pledge that you know where you saved your API key
